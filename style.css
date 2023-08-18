@@ -1,0 +1,30 @@
+body{ 
+background: #efc443;
+}
+
+.caixa{
+text-align: center;
+margin:200px;
+}
+
+.primeiro{
+font-size: 20px;
+font-weight: 400;
+font-family:Georgia, 'Times New Roman', Times, serif;
+text-decoration: underline;
+}
+
+.segundo{
+    font-size: 20px;
+    font-weight: 400;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+.btnSomar{
+background-color:rgb(246, 233, 233);
+height:40px;
+width: 80px;
+border-radius:5px;
+font-family:Georgia, 'Times New Roman', Times, serif ;
+}
